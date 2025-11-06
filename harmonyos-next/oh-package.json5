@@ -1,0 +1,11 @@
+{
+    modelVersion: '5.0.0',
+    devDependencies: {
+    },
+    author: '',
+    name: 'cocos-game-harmonyosnext',
+    description: 'example description',
+    main: '',
+    version: '1.0.0',
+    dependencies: {},
+}
